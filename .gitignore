@@ -1,0 +1,7 @@
+﻿# Logs - personal usage data
+logs/*
+!logs/.gitkeep
+
+# OS files
+.DS_Store
+Thumbs.db
